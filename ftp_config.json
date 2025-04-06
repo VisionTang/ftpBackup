@@ -1,0 +1,12 @@
+{
+    "sites": [
+        {
+            "enabled": true,
+            "name": "site_name",
+            "host": "ftp.example.com",
+            "username": "username",
+            "password": "password",
+            "remote_path": "/website_directory"
+        }
+    ]
+}
